@@ -59,6 +59,7 @@ Ali Tailor uses the following permissions:
 • Camera: To capture images of cloth and designs
 • Notifications: For order and backup reminders
 • Internet: For Google Drive backup and advertisements
+• Google Account: To sign in for cloud backup (shown under the "Contacts" group in Android, but we do not read your contacts)
 
 For more details, please refer to our Privacy Policy.
 
