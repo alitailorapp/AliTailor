@@ -13,7 +13,7 @@ When you choose to sign in with Google, we collect only the following informatio
 This information is used solely for sign-in and profile display purposes. We do not access or store your Google profile picture. We do not access any other data from your Google account.
 
 2. Data Usage
-We do not use your personal data for any analytical or promotional purposes. Your data stays on your device and is only used to provide the app's features.
+We use Google Firebase Analytics to understand how the app is used (such as how often it is opened and basic device information) so we can improve the app and its features. This analytics data does not include your customer records, orders, measurements, credits, or any other business data you enter — that data stays on your device. We do not use your personal data for promotional purposes.
 
 3. Data Sharing
 We do not share your personal data with any third parties. Your information is completely private and secure.
@@ -69,8 +69,10 @@ No promotional or marketing notifications are sent.
 - Google Drive backup and restore (if you choose to enable it)
 - Displaying advertisements through Google AdMob
 
+• Google Account (Cloud Backup): Used only when you choose to sign in with Google for cloud backup and restore. In Android this permission is listed under the "Contacts" permission group (GET_ACCOUNTS). Ali Tailor does not read, store, or transmit your device contacts or any other account data — it only lets you choose which Google account to use for backup.
+
 Ali Tailor does not request or use the following permissions:
-Storage / File Access, Location, Contacts, Microphone, SMS or Phone
+Storage / File Access, Location, Microphone, SMS or Phone
 
 All data remains on your device unless you explicitly choose to back up to Google Drive.
 
